@@ -13,7 +13,7 @@ int main()
     cout<<"Before Swapping"<<endl;
     for(int i=0; i<size; i++)
         cout<<color[i]<<endl;
-    swap(color,size);
+    swap_(color,size);
     cout<<"After Swapping"<<endl;
     for(int i=0; i<size; i++)
         cout<<color[i]<<endl;
