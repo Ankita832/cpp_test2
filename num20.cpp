@@ -15,4 +15,4 @@ int main()
         }
     }
     cout << totalSum;
-    return
+    return 0;
